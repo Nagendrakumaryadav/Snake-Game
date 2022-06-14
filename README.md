@@ -1,3 +1,5 @@
 # Snake-Game                                                                                                                                                              
-USE :- html,css,javascript.                                                                                                                                               
-https://lovely-snake-game.netlify.app
+Created Snake-Game.                                                                                                                                                       
+Features:- fully Responsive.                                                                                                                                             
+Tech Stack:- Html,Css, JavaScript.                                                                                                                                       
+Project Hosted Link:- https://lovely-snake-game.netlify.app
